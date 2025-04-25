@@ -7,11 +7,16 @@ Este projeto demonstra como usar o **Azure Machine Learning** para prever as ven
 ## 📁 Estrutura do Projeto
 
 gelato-magico-azureml/
-├── inputs/
+
+├ ── inputs/
+
 │ └── temperaturas_vendas.csv
-├── notebooks/
+
+├ ── notebooks/
+
 │ └── treinamento_azureml.ipynb
-├── README.md
+
+├ ── README.md
 
 ---
 
@@ -20,11 +25,17 @@ gelato-magico-azureml/
 O arquivo `inputs/temperaturas_vendas.csv` contém dados históricos de temperatura e vendas:
 
 temperatura,vendas
+
 25,150
+
 28,180
+
 30,210
+
 18,90
+
 22,120
+
 
 ---
 
